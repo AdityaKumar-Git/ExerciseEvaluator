@@ -46,7 +46,7 @@ A real-time exercise form evaluation application that uses computer vision to an
 
 1. Clone the repository:
 ```bash
-git clone https://exercise-evaluator-murex.vercel.app/
+git clone https://github.com/AdityaKumar-Git/ExerciseEvaluator.git
 cd exercise-evaluation-app
 ```
 
